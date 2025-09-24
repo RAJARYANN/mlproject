@@ -5,5 +5,7 @@ numpy
 seaborn
 matplotlib
 scikit-learn
+catboost --only-binary=:all:
+xgboost --only-binary=:all:
 dill
-flask
+Flask
